@@ -1,4 +1,4 @@
-# Elephant
+# Rhino
 
 ![White Rhino](https://en.wikipedia.org/wiki/White_rhinoceros#/media/File:White_Rhino_at_Working_with_Wildlife.jpg)
 
