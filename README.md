@@ -1,3 +1,3 @@
-1. [African Elephant](./elephant.md)
-2. [Siberian Tiger](./tiger.md)
-3. [Blue Whale](./whale.md)
+* [African Elephant](./elephant.md)
+* [Siberian Tiger](./tiger.md)
+* [Blue Whale](./whale.md)
